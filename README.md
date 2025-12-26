@@ -38,3 +38,8 @@
 - 密钥仅存储在 config.ini 的 llm 段
 - app.log 不记录密钥
 - conversations.jsonl 用于离线分析，不包含敏感密钥
+
+## 其他文档
+-
+- 
+
