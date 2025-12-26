@@ -1,0 +1,129 @@
+2025-12-26 00:36:28 INFO 写入文件测试1
+2025-12-26 00:36:28 ERROR 写入文件测试2
+2025-12-26 00:53:14 INFO query start question=AI学科的课程内容是什么 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 00:54:07 INFO query done answer_chars=1054 context_chars=12668
+2025-12-26 00:54:26 INFO web_ui start
+2025-12-26 00:54:27 INFO query start question=java学科的课程内容是什么 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 00:54:34 INFO query done answer_chars=27 context_chars=16819
+2025-12-26 00:55:38 INFO web_ui start
+2025-12-26 00:56:36 INFO web_ui start
+2025-12-26 00:58:26 INFO web_ui start
+2025-12-26 01:00:17 INFO web_ui start
+2025-12-26 01:00:34 INFO web_ui start
+2025-12-26 01:01:25 INFO upload manifest cleared
+2025-12-26 01:01:27 INFO web_ui start
+2025-12-26 01:01:45 INFO ingest start files=1 batch_size=16
+2025-12-26 01:01:51 INFO web_ui start
+2025-12-26 01:02:08 INFO sync start max_unique=50 scan_rows=3000
+2025-12-26 01:02:08 INFO sync done added=0
+2025-12-26 01:02:22 INFO ingest start files=1 batch_size=16
+2025-12-26 01:02:24 INFO ingest start files=1 batch_size=16
+2025-12-26 01:04:37 INFO web_ui start
+2025-12-26 01:04:43 INFO web_ui start
+2025-12-26 01:04:43 INFO web_ui start
+2025-12-26 01:05:11 INFO sync start max_unique=50 scan_rows=3000
+2025-12-26 01:05:11 INFO sync done added=1
+2025-12-26 01:07:30 INFO web_ui start
+2025-12-26 01:07:41 INFO web_ui start
+2025-12-26 01:09:53 INFO web_ui start
+2025-12-26 01:10:10 INFO delete ok grandpa_id=b78aa087aa01c7dd7e63d83d9eeb6f93
+2025-12-26 01:10:24 INFO ingest start files=1 batch_size=16
+2025-12-26 01:11:28 INFO ingest ok file=人工智能就业课课程大纲.docx grandpa_id=a3cc1c4cf5b1c3a89de6c7cc9cb42948
+2025-12-26 01:11:28 INFO ingest done
+2025-12-26 01:11:39 INFO ingest start files=1 batch_size=16
+2025-12-26 01:12:34 INFO ingest ok file=人工智能就业课课程大纲.docx grandpa_id=77b55467775bbec932b944b583503ebf
+2025-12-26 01:12:34 INFO ingest done
+2025-12-26 01:14:35 INFO web_ui start
+2025-12-26 01:14:41 INFO web_ui start
+2025-12-26 01:14:43 INFO delete ok grandpa_id=77b55467775bbec932b944b583503ebf
+2025-12-26 01:15:06 INFO ingest start files=1 batch_size=16
+2025-12-26 01:15:17 INFO query start question=AI学科的课程内容是什么 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:15:44 INFO query done answer_chars=1018 context_chars=8411
+2025-12-26 01:16:30 INFO ingest start files=1 batch_size=16
+2025-12-26 01:17:42 INFO ingest ok file=人工智能就业课课程大纲.md grandpa_id=c2156d9d87260c974685648867f2b2f2
+2025-12-26 01:17:42 INFO ingest done
+2025-12-26 01:19:05 INFO ingest start files=2 batch_size=16
+2025-12-26 01:19:05 INFO ingest skip existing file=人工智能就业课课程大纲.md grandpa_id=c2156d9d87260c974685648867f2b2f2
+2025-12-26 01:19:05 INFO ingest skip existing file=人工智能就业课课程大纲.txt grandpa_id=c2156d9d87260c974685648867f2b2f2
+2025-12-26 01:19:05 INFO ingest done
+2025-12-26 01:19:18 INFO ingest start files=3 batch_size=16
+2025-12-26 01:19:18 INFO ingest skip existing file=人工智能就业课课程大纲.md grandpa_id=c2156d9d87260c974685648867f2b2f2
+2025-12-26 01:19:18 INFO ingest skip existing file=人工智能就业课课程大纲.txt grandpa_id=c2156d9d87260c974685648867f2b2f2
+2025-12-26 01:19:18 INFO ingest skip existing file=111.txt grandpa_id=c2156d9d87260c974685648867f2b2f2
+2025-12-26 01:19:18 INFO ingest done
+2025-12-26 01:19:30 INFO web_ui start
+2025-12-26 01:19:39 INFO ingest start files=1 batch_size=16
+2025-12-26 01:19:39 INFO ingest skip existing file=111.txt grandpa_id=c2156d9d87260c974685648867f2b2f2
+2025-12-26 01:19:39 INFO ingest done
+2025-12-26 01:23:02 INFO web_ui start
+2025-12-26 01:23:07 INFO web_ui start
+2025-12-26 01:25:04 INFO web_ui start
+2025-12-26 01:25:11 INFO web_ui start
+2025-12-26 01:26:56 INFO ingest start files=1 batch_size=16
+2025-12-26 01:28:35 INFO web_ui start
+2025-12-26 01:28:36 INFO web_ui start
+2025-12-26 01:28:49 INFO web_ui start
+2025-12-26 01:29:34 INFO web_ui start
+2025-12-26 01:29:42 INFO chat turn start trace=1884858a44b89c8c question=5.2Agent性能优化 history_lines=0 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:29:59 INFO chat turn done trace=1884858a44b89c8c hits=20 parents=14 answer_chars=27 kb_context_chars=15536
+2025-12-26 01:30:15 INFO chat turn start trace=18848591d096f990 question=Agent性能优化 history_lines=2 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:30:21 INFO chat turn done trace=18848591d096f990 hits=20 parents=14 answer_chars=27 kb_context_chars=16575
+2025-12-26 01:30:35 INFO chat turn start trace=188485968c96ee44 question=未来展望 history_lines=4 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:30:39 INFO chat turn done trace=188485968c96ee44 hits=20 parents=12 answer_chars=27 kb_context_chars=14421
+2025-12-26 01:33:17 INFO upload manifest cleared
+2025-12-26 01:33:23 INFO sync start max_unique=50 scan_rows=3000
+2025-12-26 01:33:23 INFO sync done scanned=3 added=3 existing=3
+2025-12-26 01:35:22 INFO web_ui start
+2025-12-26 01:35:23 INFO web_ui start
+2025-12-26 01:35:28 INFO web_ui start
+2025-12-26 01:38:23 INFO web_ui start
+2025-12-26 01:38:32 INFO web_ui start
+2025-12-26 01:39:09 INFO web_ui start
+2025-12-26 01:39:15 INFO delete ok grandpa_id=c2156d9d87260c974685648867f2b2f2
+2025-12-26 01:39:30 INFO web_ui start
+2025-12-26 01:39:34 INFO delete ok grandpa_id=a3cc1c4cf5b1c3a89de6c7cc9cb42948
+2025-12-26 01:39:46 INFO ingest start files=1 batch_size=16 skip_existing=True
+2025-12-26 01:42:55 INFO web_ui start
+2025-12-26 01:43:00 INFO web_ui start
+2025-12-26 01:43:27 INFO web_ui start
+2025-12-26 01:44:50 INFO web_ui start
+2025-12-26 01:45:40 INFO web_ui start
+2025-12-26 01:45:47 INFO web_ui start
+2025-12-26 01:48:18 INFO chat turn start trace=1884868e08b1c9ac question=你好 history_lines=0 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:48:36 INFO chat turn done trace=1884868e08b1c9ac hits=0 parents=0 answer_chars=16 kb_context_chars=0
+2025-12-26 01:48:44 INFO chat turn start trace=1884869428bba58c question=我今天心情不好 history_lines=2 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:48:55 INFO chat turn done trace=1884869428bba58c hits=0 parents=0 answer_chars=62 kb_context_chars=0
+2025-12-26 01:49:07 INFO chat turn start trace=188486997468b5ec question=ai大模型怎么学习 history_lines=4 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:49:23 INFO web_ui start
+2025-12-26 01:49:27 INFO web_ui start
+2025-12-26 01:50:21 INFO chat turn start trace=188486aab5be1c24 question=你好 history_lines=0 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:50:41 INFO chat turn done trace=188486aab5be1c24 hits=0 parents=0 answer_chars=16 kb_context_chars=0
+2025-12-26 01:50:47 INFO delete ok grandpa_id=be80c9886000426d1c8674011ad38a82
+2025-12-26 01:50:50 INFO upload manifest cleared
+2025-12-26 01:51:05 INFO chat turn start trace=188486b4fa0d62e0 question=ai大模型怎么学 history_lines=2 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:51:16 INFO chat turn done trace=188486b4fa0d62e0 hits=0 parents=0 answer_chars=645 kb_context_chars=0
+2025-12-26 01:51:33 INFO ingest start files=1 batch_size=16 skip_existing=True
+2025-12-26 01:51:33 INFO upload cached file=大模型微调平台系统设计.md bytes=15730 hash=d0f46b450ea864f99c5338f8ab4c679b path=C:\Users\dujiaojiao\Desktop\q_w_System\logs\upload_cache\d0f46b450ea864f99c5338f8ab4c679b.md
+2025-12-26 01:52:18 INFO ingest ok file=大模型微调平台系统设计.md bytes=15730 hash=d0f46b450ea864f99c5338f8ab4c679b cache_path=C:\Users\dujiaojiao\Desktop\q_w_System\logs\upload_cache\d0f46b450ea864f99c5338f8ab4c679b.md grandpa_id=7c7ee53c88e3c7b99cfcfbf770b89024
+2025-12-26 01:52:18 INFO ingest done ok=1 skip=0 fail=0
+2025-12-26 01:52:32 INFO ingest start files=2 batch_size=16 skip_existing=True
+2025-12-26 01:52:32 INFO ingest skip existing file=大模型微调平台系统设计.md bytes=15730 hash=d0f46b450ea864f99c5338f8ab4c679b grandpa_id=7c7ee53c88e3c7b99cfcfbf770b89024
+2025-12-26 01:52:32 INFO upload cached file=字节跳动Agent实践手册69页.pdf bytes=1272553 hash=d1a1c0b01af186ff7d9bcdc42b06c7e7 path=C:\Users\dujiaojiao\Desktop\q_w_System\logs\upload_cache\d1a1c0b01af186ff7d9bcdc42b06c7e7.pdf
+2025-12-26 01:56:17 INFO ingest ok file=字节跳动Agent实践手册69页.pdf bytes=1272553 hash=d1a1c0b01af186ff7d9bcdc42b06c7e7 cache_path=C:\Users\dujiaojiao\Desktop\q_w_System\logs\upload_cache\d1a1c0b01af186ff7d9bcdc42b06c7e7.pdf grandpa_id=c618c133e73fa54114ef98b3c052a6b5
+2025-12-26 01:56:17 INFO ingest done ok=1 skip=1 fail=0
+2025-12-26 01:57:00 INFO chat turn start trace=1884870797a15910 question=电商场景 history_lines=19 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:57:20 INFO chat turn done trace=1884870797a15910 hits=20 parents=15 answer_chars=1154 kb_context_chars=18026
+2025-12-26 01:57:52 INFO chat turn start trace=18848713a155598c question=你好 history_lines=54 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:57:57 INFO chat turn done trace=18848713a155598c hits=20 parents=18 answer_chars=16 kb_context_chars=20742
+2025-12-26 01:58:12 INFO chat turn start trace=18848718645b0004 question=你好 history_lines=56 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:58:22 INFO chat turn done trace=18848718645b0004 hits=20 parents=18 answer_chars=16 kb_context_chars=20742
+2025-12-26 01:58:29 INFO chat turn start trace=1884871c550a2694 question=第几轮了 history_lines=58 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 01:58:37 INFO chat turn done trace=1884871c550a2694 hits=20 parents=13 answer_chars=27 kb_context_chars=14747
+2025-12-26 01:58:46 INFO chat cleared
+2025-12-26 02:16:37 INFO web_ui start
+2025-12-26 02:18:03 INFO chat turn start trace=1884882db4579cf0 question=你好 history_lines=0 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 02:18:14 INFO chat turn done trace=1884882db4579cf0 hits=20 parents=18 answer_chars=16 kb_context_chars=20742 retrieval_ms=4059 llm_ms=6837 response_ms=10903
+2025-12-26 02:18:26 INFO chat turn start trace=1884883317506954 question=电商应用 history_lines=2 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 02:18:45 INFO chat turn done trace=1884883317506954 hits=20 parents=14 answer_chars=918 kb_context_chars=16822 retrieval_ms=355 llm_ms=17931 response_ms=18293
+2025-12-26 02:23:02 INFO chat turn start trace=188488736060ce28 question=agent 概述 history_lines=18 top_k=20 dense_w=1.0 sparse_w=0.8 use_llm=True
+2025-12-26 02:23:17 INFO chat turn done trace=188488736060ce28 hits=20 parents=15 answer_chars=556 kb_context_chars=18021 retrieval_ms=409 llm_ms=14220 response_ms=14636
