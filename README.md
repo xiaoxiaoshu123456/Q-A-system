@@ -40,7 +40,7 @@
 - conversations.jsonl 用于离线分析，不包含敏感密钥
 
 ## 其他文档
-- https://github.com/xiaoxiaoshu123456/Q-A-system/tree/main/%E6%8F%90%E7%A4%BA%E8%AF%8D
+- https://github.com/xiaoxiaoshu123456/Q-A-system/tree/main/prompter
 - https://github.com/xiaoxiaoshu123456/Q-A-system/tree/main/docs
 - https://github.com/xiaoxiaoshu123456/Q-A-system/tree/main/docker
 
