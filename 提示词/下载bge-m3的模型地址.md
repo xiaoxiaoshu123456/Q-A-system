@@ -1,3 +1,4 @@
+#由于bgem3大于2G,上传不上去,所以需要自己下载
 from huggingface_hub import snapshot_download
 
 # 下载整个模型
